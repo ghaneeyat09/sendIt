@@ -6,13 +6,12 @@ sendIt is a super fast courier service put in place to ease picking-up and deliv
 
 ## Available Endpoints
 
-   name | lunch order | spicy
-  ------| ------------|-------:
-   john | joan        | sally
-   
-   
-   
-   
+
+   Routes         |      functionality
+ -----------------|  --------------------
+POST/user/register|     register new user    
+POST/user/login   |       login user     
+POST/order         |     create an order         
    
    
    
