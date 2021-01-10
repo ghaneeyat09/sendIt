@@ -21,6 +21,5 @@ GET/order/orderId    |  fetch a specifc Order    |       true         |
    
  ## Accession
  
- You can access sendIt endpoints via: 
- 
- [this link](https://send-it-back-app.herokuapp.com)
+ <a name="sendItLink" href="https://send-it-back-app.herokuapp.com"></a>
+ You can access sendIt endpoints via: [this link](#sendItLink)
