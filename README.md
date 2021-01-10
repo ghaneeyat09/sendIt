@@ -6,9 +6,8 @@ sendIt is a super fast courier service put in place to ease picking-up and deliv
 
 ## Available Endpoints
 
-|        Routes        |         functionality      |
-|                      |                            |
-| -------------------- | -------------------------- |
+        Routes         |         functionality                      
+  -------------------- | --------------------------
 |  POST/user/register  |     register new user      |
 |                      |                            |
 |   POST/user/login    |       login user           |
@@ -17,7 +16,7 @@ sendIt is a super fast courier service put in place to ease picking-up and deliv
 |                      |                            |
 | GET/user/userId/order| fetch specific user orders |
 |                      |                            |
-| GET/order            |  fetch all orders          |
+| GET/order            |     fetch all orders       |
 |                      |                            |
 | GET/order/orderId    |fetch a specifc delivery Order |
 |                      |                            |
